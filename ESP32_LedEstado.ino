@@ -1,3 +1,9 @@
+/*
+* Hummmmm, sigue siendo basico. Porque ? Se puede mejorar ? que paso al probarlo ?
+*
+*/
+
+
 // Constantes para los pines
 const int PULSADOR = 35;
 const int LedPin = 32;
